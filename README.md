@@ -47,3 +47,4 @@ yarn dev
 ## Join our Discord!
 
 For any questions or suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+update readme.md
